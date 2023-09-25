@@ -1,2 +1,3 @@
 # git_cource
 for elzero web school
+##notes
